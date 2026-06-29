@@ -1,6 +1,6 @@
 {
   "modules": {
-    "modules\\maya\\Tools\\AutoTangents.rb": {
+    "fe8646386e674920b0dfd829b30e6736": {
       "hash": "ca0fe9e7bcfe8d914bfd2fe0e49515e8",
       "embedding": [
         1.3865323066711426,
@@ -774,7 +774,7 @@
       ],
       "name": "AutoTangents"
     },
-    "modules\\maya\\Tools\\BindMode.rb": {
+    "c7ae99e054f94721afc9256cf449e180": {
       "hash": "57fdd3222ac073144c9305c0b1086003",
       "embedding": [
         -0.16084161400794983,
@@ -1548,7 +1548,7 @@
       ],
       "name": "BindMode"
     },
-    "modules\\maya\\Tools\\ConvertSkinTool.rb": {
+    "c7568f79334f48238ef02aacbae45fbe": {
       "hash": "07cea03f8b9ab92347f1640e1db38745",
       "embedding": [
         0.6901212334632874,
@@ -2322,7 +2322,7 @@
       ],
       "name": "ConvertSkinTool"
     },
-    "modules\\maya\\Tools\\GetJoints.rb": {
+    "9f20a01b042e46d389ce6774b7248fc3": {
       "hash": "3949d66112ad1c0e6576df13b816ed6e",
       "embedding": [
         -0.07343827933073044,
@@ -3096,7 +3096,7 @@
       ],
       "name": "GetJoints"
     },
-    "modules\\maya\\Tools\\Rivet.rb": {
+    "88e30aae9d5745fcb70ee99e215ea28d": {
       "hash": "fbaedeb7d5567c297b2110706f7842b9",
       "embedding": [
         0.1272643357515335,
@@ -3870,7 +3870,7 @@
       ],
       "name": "Rivet"
     },
-    "modules\\maya\\Tools\\SetMaxInfluences.rb": {
+    "ba683572a8564671832cbe81d0fc0b8c": {
       "hash": "bbc2d00fd3210807f03ffb3f747cf3d5",
       "embedding": [
         1.0313228368759155,
