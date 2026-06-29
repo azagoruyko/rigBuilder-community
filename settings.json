@@ -1,0 +1,8 @@
+{
+  "vscode": "code",
+  "trackHistory": true,
+  "ollamaModel": "gpt-oss:20b-cloud",
+  "ollamaEmbeddingModel": "nomic-embed-text",
+  "aiLanguage": "English",
+  "autoSaveInterval": 15
+}
